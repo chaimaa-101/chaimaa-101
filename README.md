@@ -46,7 +46,4 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaimaa-101&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaa-101&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=chaimaa-101&theme=tokyonight&hide_border=true)
